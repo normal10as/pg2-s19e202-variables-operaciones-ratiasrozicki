@@ -1,0 +1,11 @@
+D:\VB\Variables\1.09. interes\bin\Debug\netcoreapp2.2\1.09. interes.deps.json
+D:\VB\Variables\1.09. interes\bin\Debug\netcoreapp2.2\1.09. interes.runtimeconfig.json
+D:\VB\Variables\1.09. interes\bin\Debug\netcoreapp2.2\1.09. interes.runtimeconfig.dev.json
+D:\VB\Variables\1.09. interes\bin\Debug\netcoreapp2.2\1.09. interes.dll
+D:\VB\Variables\1.09. interes\bin\Debug\netcoreapp2.2\1.09. interes.pdb
+D:\VB\Variables\1.09. interes\obj\Debug\netcoreapp2.2\1.09. interes.vbprojAssemblyReference.cache
+D:\VB\Variables\1.09. interes\obj\Debug\netcoreapp2.2\1.09. interes.vbproj.CoreCompileInputs.cache
+D:\VB\Variables\1.09. interes\obj\Debug\netcoreapp2.2\1.09. interes.AssemblyInfoInputs.cache
+D:\VB\Variables\1.09. interes\obj\Debug\netcoreapp2.2\1.09. interes.AssemblyInfo.vb
+D:\VB\Variables\1.09. interes\obj\Debug\netcoreapp2.2\1.09. interes.dll
+D:\VB\Variables\1.09. interes\obj\Debug\netcoreapp2.2\1.09. interes.pdb
