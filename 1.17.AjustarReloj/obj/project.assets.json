@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VB\\Variables\\1.17.AjustarReloj\\1.17.AjustarReloj.vbproj",
+      "projectUniqueName": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.17.AjustarReloj\\1.17.AjustarReloj.vbproj",
       "projectName": "1.17.AjustarReloj",
-      "projectPath": "D:\\VB\\Variables\\1.17.AjustarReloj\\1.17.AjustarReloj.vbproj",
+      "projectPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.17.AjustarReloj\\1.17.AjustarReloj.vbproj",
       "packagesPath": "C:\\Users\\Matias-Rozicki\\.nuget\\packages\\",
-      "outputPath": "D:\\VB\\Variables\\1.17.AjustarReloj\\obj\\",
+      "outputPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.17.AjustarReloj\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VB\\Variables\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj": {}
+    "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj": {}
   },
   "projects": {
-    "D:\\VB\\Variables\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj": {
+    "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VB\\Variables\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj",
+        "projectUniqueName": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj",
         "projectName": "1.18.Nuevafecha",
-        "projectPath": "D:\\VB\\Variables\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj",
+        "projectPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.18.Nuevafecha\\1.18.Nuevafecha.vbproj",
         "packagesPath": "C:\\Users\\Matias-Rozicki\\.nuget\\packages\\",
-        "outputPath": "D:\\VB\\Variables\\1.18.Nuevafecha\\obj\\",
+        "outputPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.18.Nuevafecha\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

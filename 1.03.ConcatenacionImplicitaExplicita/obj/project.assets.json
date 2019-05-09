@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VB\\Variables\\1.03.ConcatenacionImplicitaExplicita\\1.03.ConcatenacionImplicitaExplicita.vbproj",
+      "projectUniqueName": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.03.ConcatenacionImplicitaExplicita\\1.03.ConcatenacionImplicitaExplicita.vbproj",
       "projectName": "1.03.ConcatenacionImplicitaExplicita",
-      "projectPath": "D:\\VB\\Variables\\1.03.ConcatenacionImplicitaExplicita\\1.03.ConcatenacionImplicitaExplicita.vbproj",
+      "projectPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.03.ConcatenacionImplicitaExplicita\\1.03.ConcatenacionImplicitaExplicita.vbproj",
       "packagesPath": "C:\\Users\\Matias-Rozicki\\.nuget\\packages\\",
-      "outputPath": "D:\\VB\\Variables\\1.03.ConcatenacionImplicitaExplicita\\obj\\",
+      "outputPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.03.ConcatenacionImplicitaExplicita\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

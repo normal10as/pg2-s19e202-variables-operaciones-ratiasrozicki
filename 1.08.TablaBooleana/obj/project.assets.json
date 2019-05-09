@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VB\\Variables\\1.08.TablaBooleana\\1.08.TablaBooleana.vbproj",
+      "projectUniqueName": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.08.TablaBooleana\\1.08.TablaBooleana.vbproj",
       "projectName": "1.08.TablaBooleana",
-      "projectPath": "D:\\VB\\Variables\\1.08.TablaBooleana\\1.08.TablaBooleana.vbproj",
+      "projectPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.08.TablaBooleana\\1.08.TablaBooleana.vbproj",
       "packagesPath": "C:\\Users\\Matias-Rozicki\\.nuget\\packages\\",
-      "outputPath": "D:\\VB\\Variables\\1.08.TablaBooleana\\obj\\",
+      "outputPath": "D:\\VB\\Varriables2\\normal10as\\pg2-s19e202-variables-operaciones-ratiasrozicki\\1.08.TablaBooleana\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
