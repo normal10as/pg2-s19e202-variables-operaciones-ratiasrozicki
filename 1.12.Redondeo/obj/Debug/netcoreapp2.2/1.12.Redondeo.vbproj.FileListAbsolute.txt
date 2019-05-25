@@ -1,0 +1,10 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\bin\Debug\netcoreapp2.2\1.12.Redondeo.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\bin\Debug\netcoreapp2.2\1.12.Redondeo.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\bin\Debug\netcoreapp2.2\1.12.Redondeo.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\bin\Debug\netcoreapp2.2\1.12.Redondeo.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\bin\Debug\netcoreapp2.2\1.12.Redondeo.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\obj\Debug\netcoreapp2.2\1.12.Redondeo.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\obj\Debug\netcoreapp2.2\1.12.Redondeo.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\obj\Debug\netcoreapp2.2\1.12.Redondeo.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\obj\Debug\netcoreapp2.2\1.12.Redondeo.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.12.Redondeo\obj\Debug\netcoreapp2.2\1.12.Redondeo.pdb

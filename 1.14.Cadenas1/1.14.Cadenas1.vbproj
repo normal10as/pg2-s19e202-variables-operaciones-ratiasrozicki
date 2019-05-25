@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8DCE3A27-DB66-4F65-A958-BCA30DA748B5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_1._14.Cadenas1.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>_1._14.Cadenas1</RootNamespace>
     <AssemblyName>1.14.Cadenas1</AssemblyName>
     <FileAlignment>512</FileAlignment>

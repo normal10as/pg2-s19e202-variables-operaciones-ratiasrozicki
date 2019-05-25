@@ -1,0 +1,11 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\_1._15.Refrase.Resources.resources
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\1.15.Refrase.vbproj.GenerateResource.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\1.15.Refrase.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\bin\Debug\1.15.Refrase.exe.config
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\bin\Debug\1.15.Refrase.exe
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\bin\Debug\1.15.Refrase.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\bin\Debug\1.15.Refrase.xml
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\1.15.Refrase.exe
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\1.15.Refrase.xml
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\1.15.Refrase.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.15.Refrase\obj\Debug\1.15.Refrase.vbprojAssemblyReference.cache

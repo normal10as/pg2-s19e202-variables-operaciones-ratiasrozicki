@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{0F818B64-389C-435A-A07E-5B835AAB99E2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>_1._15.Refrase.Module1</StartupObject>
+    <StartupObject>Sub Main</StartupObject>
     <RootNamespace>_1._15.Refrase</RootNamespace>
     <AssemblyName>1.15.Refrase</AssemblyName>
     <FileAlignment>512</FileAlignment>

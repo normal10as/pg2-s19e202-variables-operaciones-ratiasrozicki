@@ -1,0 +1,10 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\bin\Debug\netcoreapp2.2\1.08.TablaBooleana.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\bin\Debug\netcoreapp2.2\1.08.TablaBooleana.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\bin\Debug\netcoreapp2.2\1.08.TablaBooleana.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\bin\Debug\netcoreapp2.2\1.08.TablaBooleana.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\bin\Debug\netcoreapp2.2\1.08.TablaBooleana.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\obj\Debug\netcoreapp2.2\1.08.TablaBooleana.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\obj\Debug\netcoreapp2.2\1.08.TablaBooleana.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\obj\Debug\netcoreapp2.2\1.08.TablaBooleana.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\obj\Debug\netcoreapp2.2\1.08.TablaBooleana.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.08.TablaBooleana\obj\Debug\netcoreapp2.2\1.08.TablaBooleana.pdb

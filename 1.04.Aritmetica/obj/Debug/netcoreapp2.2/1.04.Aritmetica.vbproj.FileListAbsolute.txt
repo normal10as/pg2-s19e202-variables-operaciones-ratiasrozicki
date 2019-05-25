@@ -1,0 +1,11 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\bin\Debug\netcoreapp2.2\1.04.Aritmetica.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\bin\Debug\netcoreapp2.2\1.04.Aritmetica.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\bin\Debug\netcoreapp2.2\1.04.Aritmetica.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\bin\Debug\netcoreapp2.2\1.04.Aritmetica.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\bin\Debug\netcoreapp2.2\1.04.Aritmetica.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\obj\Debug\netcoreapp2.2\1.04.Aritmetica.vbprojAssemblyReference.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\obj\Debug\netcoreapp2.2\1.04.Aritmetica.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\obj\Debug\netcoreapp2.2\1.04.Aritmetica.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\obj\Debug\netcoreapp2.2\1.04.Aritmetica.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\obj\Debug\netcoreapp2.2\1.04.Aritmetica.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.04.Aritmetica\obj\Debug\netcoreapp2.2\1.04.Aritmetica.pdb

@@ -1,0 +1,10 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\bin\Debug\netcoreapp2.2\1.07.EquivalenciaDias.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\bin\Debug\netcoreapp2.2\1.07.EquivalenciaDias.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\bin\Debug\netcoreapp2.2\1.07.EquivalenciaDias.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\bin\Debug\netcoreapp2.2\1.07.EquivalenciaDias.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\bin\Debug\netcoreapp2.2\1.07.EquivalenciaDias.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\obj\Debug\netcoreapp2.2\1.07.EquivalenciaDias.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\obj\Debug\netcoreapp2.2\1.07.EquivalenciaDias.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\obj\Debug\netcoreapp2.2\1.07.EquivalenciaDias.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\obj\Debug\netcoreapp2.2\1.07.EquivalenciaDias.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.07.EquivalenciaDias\obj\Debug\netcoreapp2.2\1.07.EquivalenciaDias.pdb

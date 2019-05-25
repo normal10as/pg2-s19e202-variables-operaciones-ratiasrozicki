@@ -1,0 +1,10 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\bin\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\bin\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\bin\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\bin\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\bin\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\obj\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\obj\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\obj\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\obj\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.03.ConcatenacionImplicitaExplicita\obj\Debug\netcoreapp2.2\1.03.ConcatenacionImplicitaExplicita.pdb

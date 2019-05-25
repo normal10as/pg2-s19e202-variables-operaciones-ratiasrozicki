@@ -1,0 +1,10 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\bin\Debug\netcoreapp2.2\1.17.AjustarReloj.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\bin\Debug\netcoreapp2.2\1.17.AjustarReloj.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\bin\Debug\netcoreapp2.2\1.17.AjustarReloj.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\bin\Debug\netcoreapp2.2\1.17.AjustarReloj.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\bin\Debug\netcoreapp2.2\1.17.AjustarReloj.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\obj\Debug\netcoreapp2.2\1.17.AjustarReloj.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\obj\Debug\netcoreapp2.2\1.17.AjustarReloj.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\obj\Debug\netcoreapp2.2\1.17.AjustarReloj.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\obj\Debug\netcoreapp2.2\1.17.AjustarReloj.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.17.AjustarReloj\obj\Debug\netcoreapp2.2\1.17.AjustarReloj.pdb

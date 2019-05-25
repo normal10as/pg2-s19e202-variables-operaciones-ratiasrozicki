@@ -1,0 +1,11 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.vbprojAssemblyReference.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\_1._14.Cadenas1.Resources.resources
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.vbproj.GenerateResource.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.exe.config
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.exe
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\bin\Debug\1.14.Cadenas1.xml
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.exe
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.xml
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.14.Cadenas1\obj\Debug\1.14.Cadenas1.pdb

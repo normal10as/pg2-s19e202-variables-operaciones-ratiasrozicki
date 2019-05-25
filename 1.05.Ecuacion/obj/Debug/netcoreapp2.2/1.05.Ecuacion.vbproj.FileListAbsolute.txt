@@ -1,0 +1,10 @@
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\bin\Debug\netcoreapp2.2\1.05.Ecuacion.deps.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\bin\Debug\netcoreapp2.2\1.05.Ecuacion.runtimeconfig.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\bin\Debug\netcoreapp2.2\1.05.Ecuacion.runtimeconfig.dev.json
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\bin\Debug\netcoreapp2.2\1.05.Ecuacion.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\bin\Debug\netcoreapp2.2\1.05.Ecuacion.pdb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\obj\Debug\netcoreapp2.2\1.05.Ecuacion.vbproj.CoreCompileInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\obj\Debug\netcoreapp2.2\1.05.Ecuacion.AssemblyInfoInputs.cache
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\obj\Debug\netcoreapp2.2\1.05.Ecuacion.AssemblyInfo.vb
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\obj\Debug\netcoreapp2.2\1.05.Ecuacion.dll
+D:\VB\Varriables2\normal10as\pg2-s19e202-variables-operaciones-ratiasrozicki\1.05.Ecuacion\obj\Debug\netcoreapp2.2\1.05.Ecuacion.pdb
